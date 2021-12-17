@@ -1,0 +1,79 @@
+{
+  "project_info": {
+    "project_number": "669029328980",
+    "project_id": "flashinfo-f64c6",
+    "storage_bucket": "flashinfo-f64c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669029328980:android:2b740b6fb772d727c825c1",
+        "android_client_info": {
+          "package_name": "com.kuliang.android.flashInfo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669029328980-3pe3racfp6b1f9u4371ullshghii2puv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kuliang.android.flashInfo",
+            "certificate_hash": "654bb97b81f25d469bac9c6a33fc6a84790a05a6"
+          }
+        },
+        {
+          "client_id": "669029328980-7oqiuk7elhvvqt0b92drup827396jvh2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kuliang.android.flashInfo",
+            "certificate_hash": "e7904bae1bc45700ac7b5f3e698c23c51b08af9c"
+          }
+        },
+        {
+          "client_id": "669029328980-84ib97ic42et3poh4h3u2hd30bchmmh3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kuliang.android.flashInfo",
+            "certificate_hash": "0f717e085d4a932393741adf2607d0ba45cbb0c1"
+          }
+        },
+        {
+          "client_id": "669029328980-h3ccdc3sclm5avq7heoq8ngamogiet0s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kuliang.android.flashInfo",
+            "certificate_hash": "f304f10fb4333bf690531cc9a9423ed010498351"
+          }
+        },
+        {
+          "client_id": "669029328980-ke877jop5um6seg2hltn9u4qnla397cg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI6wc1jnc1SlKmejJC3TwGM7MjLe9m_Zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669029328980-ke877jop5um6seg2hltn9u4qnla397cg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "669029328980-m212of2s0a951728butp5bffo63tirps.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dotc.flashinfo",
+                "app_store_id": "1568071662"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

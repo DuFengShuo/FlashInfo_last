@@ -1,0 +1,92 @@
+{
+  "images" : [
+    {
+      "extent" : "full-screen",
+      "filename" : "1242_2688.jpg",
+      "idiom" : "iphone",
+      "minimum-system-version" : "12.0",
+      "orientation" : "portrait",
+      "scale" : "3x",
+      "subtype" : "2688h"
+    },
+    {
+      "extent" : "full-screen",
+      "filename" : "828_1792.jpg",
+      "idiom" : "iphone",
+      "minimum-system-version" : "12.0",
+      "orientation" : "portrait",
+      "scale" : "2x",
+      "subtype" : "1792h"
+    },
+    {
+      "extent" : "full-screen",
+      "filename" : "1125x2436.jpg",
+      "idiom" : "iphone",
+      "minimum-system-version" : "11.0",
+      "orientation" : "portrait",
+      "scale" : "3x",
+      "subtype" : "2436h"
+    },
+    {
+      "extent" : "full-screen",
+      "filename" : "4608674119_33105857930_1242_2208.jpg",
+      "idiom" : "iphone",
+      "minimum-system-version" : "8.0",
+      "orientation" : "portrait",
+      "scale" : "3x",
+      "subtype" : "736h"
+    },
+    {
+      "extent" : "full-screen",
+      "filename" : "750_1334.jpg",
+      "idiom" : "iphone",
+      "minimum-system-version" : "8.0",
+      "orientation" : "portrait",
+      "scale" : "2x",
+      "subtype" : "667h"
+    },
+    {
+      "extent" : "full-screen",
+      "filename" : "640_960-1.jpg",
+      "idiom" : "iphone",
+      "minimum-system-version" : "7.0",
+      "orientation" : "portrait",
+      "scale" : "2x"
+    },
+    {
+      "extent" : "full-screen",
+      "filename" : "640_1136-1.jpg",
+      "idiom" : "iphone",
+      "minimum-system-version" : "7.0",
+      "orientation" : "portrait",
+      "scale" : "2x",
+      "subtype" : "retina4"
+    },
+    {
+      "extent" : "full-screen",
+      "filename" : "320_480.jpg",
+      "idiom" : "iphone",
+      "orientation" : "portrait",
+      "scale" : "1x"
+    },
+    {
+      "extent" : "full-screen",
+      "filename" : "640_960.jpg",
+      "idiom" : "iphone",
+      "orientation" : "portrait",
+      "scale" : "2x"
+    },
+    {
+      "extent" : "full-screen",
+      "filename" : "640_1136.jpg",
+      "idiom" : "iphone",
+      "orientation" : "portrait",
+      "scale" : "2x",
+      "subtype" : "retina4"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

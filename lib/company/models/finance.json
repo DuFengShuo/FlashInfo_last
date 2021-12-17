@@ -1,0 +1,38 @@
+[
+  {
+    "Funding Rounds": [
+      {
+        "name": "Total Funding Amount",
+        "value": "total_funding_amount"
+      },
+      {
+        "name": "Number of Funding Rounds",
+        "value": "number_of_funding_rounds"
+      }
+    ]
+  },
+  {
+    "Investors": [
+      {
+        "name": "Number of Lead investors",
+        "value": "number_of_lead_investors"
+      },
+      {
+        "name": "Number of Investors",
+        "value": "number_of_investors"
+      }
+    ]
+  },
+  {
+    "Investment": [
+      {
+        "name": "Number of investments",
+        "value": "number_of_investments"
+      },
+      {
+        "name": "Number of lead Investments",
+        "value": "number_of_lead_investments"
+      }
+    ]
+  }
+]
